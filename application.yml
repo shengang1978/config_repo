@@ -2,6 +2,6 @@
   
 lcp:
   services:
-    social: http://s2.51tyty.com:8108/social
+    social: http://s2.51tyty.com:8109/social
     media: http://tyty.iiiview.net:8104/media
     user: http://ws.iiiview.net:8102/user
