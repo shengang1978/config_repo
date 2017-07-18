@@ -1,4 +1,7 @@
 ---
+  
 lcp:
+  services:
     social: http://ws.iiiview.net/social
     media: http://tyty.iiiview.net/media
+    user: http://ws.iiiview.net/user
